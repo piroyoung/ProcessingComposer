@@ -61,7 +61,6 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
-/.gitignore
 ### Java template
 # Compiled class file
 *.class

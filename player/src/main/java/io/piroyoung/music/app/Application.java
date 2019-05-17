@@ -9,7 +9,7 @@ public class Application extends PApplet {
 
 
     public static void main(String[] args) {
-        PApplet.main("music.app.Application");
+        PApplet.main("io.piroyoung.music.app.Application");
     }
 
     @Override

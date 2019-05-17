@@ -14,7 +14,6 @@
         <module>processing-sound</module>
     </modules>
 
-
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
         <dependency>
