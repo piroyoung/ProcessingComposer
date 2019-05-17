@@ -1,7 +1,10 @@
 package io.piroyoung.music.app;
 
 import processing.core.PApplet;
+import processing.sound.*;
+
 import io.piroyoung.music.sound.Note;
+
 
 public class Application extends PApplet {
     private static final int FRAME_RATE = 30;
@@ -21,6 +24,8 @@ public class Application extends PApplet {
     public void setup() {
         background(0);
         frameRate(FRAME_RATE);
+
+
     }
 
     @Override

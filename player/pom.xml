@@ -18,11 +18,12 @@
             <artifactId>sound</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.processing/core -->
         <dependency>
-            <groupId>org.processing</groupId>
-            <artifactId>core</artifactId>
-            <version>3.3.6</version>
+            <groupId>io.piroyoung</groupId>
+            <artifactId>processing-sound</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.processing/core -->
+
     </dependencies>
 </project>
