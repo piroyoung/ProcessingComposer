@@ -1,0 +1,3 @@
+[submodule "third-party/processing-sound"]
+	path = third-party/processing-sound
+	url = git@github.com:processing/processing-sound.git
