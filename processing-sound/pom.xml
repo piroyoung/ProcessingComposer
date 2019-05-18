@@ -24,6 +24,14 @@
             <artifactId>javamp3</artifactId>
             <version>1.0.1</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.google.android</groupId>
+            <artifactId>android</artifactId>
+            <version>27</version>
+            <scope>system</scope>
+            <systemPath>${env.ANDROID_HOME}/platforms/android-27/android.jar</systemPath>
+        </dependency>
     </dependencies>
 
 </project>
